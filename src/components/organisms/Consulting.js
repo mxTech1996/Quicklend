@@ -20,7 +20,7 @@ export default function ConsultingInfo() {
             Empowering Your Business With Expert Wholesale IT Consulting
           </h2>
           <a
-            href='#'
+            href='#about'
             className='mt-6 lg:mt-0 inline-block bg-white text-black font-semibold px-6 py-3 rounded hover:bg-black hover:text-white transition'
           >
             About Us
